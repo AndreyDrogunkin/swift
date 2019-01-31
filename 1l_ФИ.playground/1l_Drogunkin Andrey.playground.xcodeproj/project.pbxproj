@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		E6B90E2A2200EFD10075225B /* 1l_ФИ.playground */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "1l_ФИ.playground"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E6B90E2A2200EFD10075225B /* 1l_Drogunkin Andrey.playground */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "1l_Drogunkin Andrey.playground"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6B90E2D2200EFD10075225B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		E6B90E212200EFD10075225B = {
 			isa = PBXGroup;
 			children = (
-				E6B90E2C2200EFD10075225B /* 1l_ФИ.playground */,
+				E6B90E2C2200EFD10075225B /* 1I_Drogunkin Andrey.playground */,
 				E6B90E2B2200EFD10075225B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +49,25 @@
 		E6B90E2B2200EFD10075225B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E6B90E2A2200EFD10075225B /* 1l_ФИ.playground */,
+				E6B90E2A2200EFD10075225B /* 1l_Drogunkin Andrey.playground */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E6B90E2C2200EFD10075225B /* 1l_ФИ.playground */ = {
+		E6B90E2C2200EFD10075225B /* 1I_Drogunkin Andrey.playground */ = {
 			isa = PBXGroup;
 			children = (
 				E6B90E2D2200EFD10075225B /* main.swift */,
 			);
-			path = "1l_ФИ.playground";
+			path = "1I_Drogunkin Andrey.playground";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E6B90E292200EFD10075225B /* 1l_ФИ.playground */ = {
+		E6B90E292200EFD10075225B /* 1l_Drogunkin Andrey.playground */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E6B90E312200EFD10075225B /* Build configuration list for PBXNativeTarget "1l_ФИ.playground" */;
+			buildConfigurationList = E6B90E312200EFD10075225B /* Build configuration list for PBXNativeTarget "1l_Drogunkin Andrey.playground" */;
 			buildPhases = (
 				E6B90E262200EFD10075225B /* Sources */,
 				E6B90E272200EFD10075225B /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = "1l_ФИ.playground";
+			name = "1l_Drogunkin Andrey.playground";
 			productName = "1l_ФИ.playground";
-			productReference = E6B90E2A2200EFD10075225B /* 1l_ФИ.playground */;
+			productReference = E6B90E2A2200EFD10075225B /* 1l_Drogunkin Andrey.playground */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -97,7 +97,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E6B90E252200EFD10075225B /* Build configuration list for PBXProject "1l_ФИ.playground" */;
+			buildConfigurationList = E6B90E252200EFD10075225B /* Build configuration list for PBXProject "1l_Drogunkin Andrey.playground" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -109,7 +109,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E6B90E292200EFD10075225B /* 1l_ФИ.playground */,
+				E6B90E292200EFD10075225B /* 1l_Drogunkin Andrey.playground */,
 			);
 		};
 /* End PBXProject section */
@@ -264,7 +264,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E6B90E252200EFD10075225B /* Build configuration list for PBXProject "1l_ФИ.playground" */ = {
+		E6B90E252200EFD10075225B /* Build configuration list for PBXProject "1l_Drogunkin Andrey.playground" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E6B90E2F2200EFD10075225B /* Debug */,
@@ -273,7 +273,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E6B90E312200EFD10075225B /* Build configuration list for PBXNativeTarget "1l_ФИ.playground" */ = {
+		E6B90E312200EFD10075225B /* Build configuration list for PBXNativeTarget "1l_Drogunkin Andrey.playground" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E6B90E322200EFD10075225B /* Debug */,
