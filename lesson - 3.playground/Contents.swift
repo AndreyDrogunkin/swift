@@ -74,18 +74,40 @@ struct Truck {
     var truckVol:Double
 }
 
-var present: String {
+var present: Bool {
     get {
-        return motor + "  " + windows + "  " + truck + "  " + truckVol
+        return motor + " " + windows + " " + truck
     }
 }
 
-var truck = Truck(Motor: true, Windows: false, Truck: true, truckVol: 70.4)
+var truck = Truck(motor: true, Windows: false, Truck: true, truckVol: 70.4)
 
 print(truck.present)
 
 
-// 4.
+// 4. Добавить в структуры метод с одним аргументом типа перечисления, который будет менять свойства структуры в зависимости от действия
+
+struct Car3 {
+    var motor: String
+    var windows: Bool
+    var speed: Int
+    var truckVol: Double {
+         willSet {
+            print(truckVol)
+        } didSet {
+            print(speed)
+        }
+}
+    var car = Car3(motor:"Drive", windows:true, speed:80, truckVol: 75.23 )
+    car.speed = 120
+    print()
+
+
+
+
+
+
+
 
 
 
